@@ -1,4 +1,4 @@
-# Incapp - Assignment-04
+# Incapp - Assignment 04<sup>th</sup>
 
 This is the **04<sup>th</sup> Assignment Project** from **Incapp Institute** , 
 Created as part of the Frontend Development Training. 
@@ -22,7 +22,7 @@ Appealing and Responsive Layout.
 
 ## Screenshots
 
-Below is a Preview of **Assignment 04** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
+Below is a Preview of **Assignment 04<sup>th</sup>** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
 The Design focuses on Clean Structure , Responsiveness and Modern Styling.
 
 <img src="./images/Assignment-3.2.png" alt="Assignment 04 Preview" width="100%" />
